@@ -18,7 +18,7 @@ This project is designed to protect children from sitting too close to the telev
 The ultrasonic sensor (HC-SR04) measures the distance between the child and the TV in real time.  
 If the distance falls below a predefined safe limit (e.g., 50 cm), the system activates a buzzer or LED to alert the user to move back.
 ## Circuit 
-![Hardware Setup](hardware_setup.jpeg)
+![Hardware Setup](The_Hardware_setup.jpeg)
 ## Components Required 
 - Arduino UNO
 - HC-SRO4 Ultrasonic sensor
