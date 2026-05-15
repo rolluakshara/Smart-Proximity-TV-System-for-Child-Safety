@@ -28,7 +28,7 @@ If the distance falls below a predefined safe limit (e.g., 50 cm), the system ac
 ## Code Output
 - ![Output](output_image.jpg)
 ## Demo Video
-- [Watch demo](https://youtu.be/C8GWi3mseis?si=c8QGTviNQ2GiOta6)
+- [Watch demo on Youtube](https://youtu.be/C8GWi3mseis?si=c8QGTviNQ2GiOta6)
 ## 🚀 Future Improvements
 - Mobile app alerts  
 - Camera-based detection  
