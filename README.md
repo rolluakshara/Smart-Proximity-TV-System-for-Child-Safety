@@ -26,7 +26,7 @@ If the distance falls below a predefined safe limit (e.g., 50 cm), the system ac
 - Jumper wires
 - Breadboard
 ## Code Output
-- ![Output](The_Output_of_Code.jpg)
+- ![Output](The_Output_of_Code.jpeg)
 ## Demo Video
 - [Watch demo on Youtube](https://youtu.be/C8GWi3mseis?si=c8QGTviNQ2GiOta6)
 ## 🚀 Future Improvements
