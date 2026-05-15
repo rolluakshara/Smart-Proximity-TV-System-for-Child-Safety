@@ -25,6 +25,8 @@ If the distance falls below a predefined safe limit (e.g., 50 cm), the system ac
 - Buzzer
 - Jumper wires
 - Breadboard
+## Code Output
+- ![Output](output_image.jpg)
 ## 🚀 Future Improvements
 - Mobile app alerts  
 - Camera-based detection  
