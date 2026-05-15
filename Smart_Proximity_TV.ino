@@ -20,6 +20,7 @@ void loop() {
  delayMicroseconds(10);
  
  digitalWrite(trigPin, LOW);
+ 
  // Read echo
  duration = pulseIn(echoPin, HIGH);
  // Calculate distance (in cm)
