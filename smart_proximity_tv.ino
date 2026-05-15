@@ -1,6 +1,7 @@
 #define trigPin 9
 #define echoPin 10
 #define relayPin 7 // Relay connected to pin 7
+
 long duration;
 int distance;
 void setup() {
